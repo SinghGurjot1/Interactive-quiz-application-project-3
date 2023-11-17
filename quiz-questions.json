@@ -1,0 +1,68 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Rome"],
+        "correctAnswer": "Paris"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+        "correctAnswer": "Mars"
+    },
+    {
+        "question": "The Eiffel Tower is located in which city?",
+        "options": ["London", "Paris", "New York", "Tokyo"],
+        "correctAnswer": "Paris"
+    },
+    {
+        "question": "JavaScript is a scripting language commonly used for web development.",
+        "options": ["True", "False"],
+        "correctAnswer": "True"
+    },
+    {
+        "question": "Which programming language is known for its use in machine learning and data science?",
+        "options": ["Python", "Java", "C++", "Ruby"],
+        "correctAnswer": "Python"
+    },
+    {
+        "question": "What is the largest mammal on Earth?",
+        "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+        "correctAnswer": "Blue Whale"
+    },
+    {
+        "question": "In which year did the first manned moon landing occur?",
+        "options": ["1965", "1969", "1975", "1982"],
+        "correctAnswer": "1969"
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "F. Scott Fitzgerald"],
+        "correctAnswer": "William Shakespeare"
+    },
+    {
+        "question": "Which continent is known as the 'Land of the Rising Sun'?",
+        "options": ["Asia", "Europe", "Australia", "North America"],
+        "correctAnswer": "Asia"
+    },
+    {
+        "type": "fill-in-the-blank",
+        "question": "Complete the sentence: The capital of the United States of America is ___.",
+        "correctAnswer": "Washington"
+    },
+    {
+        "type": "matching",
+        "question": "Match the shape with its name",
+        "pairs": {
+            "Circle": "🔵",
+            "Square": "🟥",
+            "Triangle": "🔺"
+        },
+        "correctOrder": ["Circle", "Square", "Triangle"]
+    },
+    {
+        "type": "ordering",
+        "question": "Order the days of the week starting from Monday",
+        "events": ["Saturday", "Monday", "Wednesday", "Friday", "Tuesday", "Thursday", "Sunday"],
+        "correctOrder": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+    }
+]
